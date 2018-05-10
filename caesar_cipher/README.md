@@ -6,7 +6,5 @@ For example a caesar cipher with a shift of 1 and "ABC" as an input would output
 the algorithm starts in the beginning of the alphabet.
 As an exercise I implemented it in Java. 
 
-'''java
-
-'''
+           
 
