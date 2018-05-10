@@ -44,7 +44,7 @@ private static String caesar (String input, int shift){
 ```
 
 But this method is not starting in the beginneng of the alphabet if the range of the alphabet is exceeded. 
-Therefore, I added oen more if statement.
+Therefore, I added one more if statement.
 
 ```java
 private static String caesar (String input, int shift){
